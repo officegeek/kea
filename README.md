@@ -1,2 +1,2 @@
-# kea
-Kea undervisning
+# KEA
+Min undervisning på Kea
